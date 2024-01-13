@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl 3_Mat
+Ns 6.286636
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.300000 C:\\Users\\91636\\AppData\\Local\\Temp\\gltfimg-tlzaqnmx\\9_Normal.png
+
+newmtl Sample_Leaf_Mat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.117237 0.052133 0.009616
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\91636\\AppData\\Local\\Temp\\gltfimg-tlzaqnmx\\9_Normal.png
+
+newmtl Sample_Petal_Mat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\91636\\AppData\\Local\\Temp\\gltfimg-tlzaqnmx\\9_Normal.png
