@@ -10,7 +10,7 @@ This repository contains educational assets designed for use with the Godot game
 
 ## YouTube Channel
 
-For video tutorials and demonstrations, visit our YouTube channel: [Your YouTube Channel](https://www.youtube.com/your_channel)
+For video tutorials and demonstrations, visit our YouTube channel: [Tutorial](https://youtu.be/bcFLQh5ZD8I)
 
 Don't forget to like, share, and subscribe for more exciting content related to Godot game development!
 
